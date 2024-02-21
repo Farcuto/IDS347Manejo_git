@@ -3,6 +3,8 @@
 ## ID 1096552
 
 ---
+[Video de Youtube](https://www.youtube.com/watch?v=oVKd_L4pTak)
+---
 
 1. git init
 2. echo this is a readme.md > Readme.md
