@@ -3,7 +3,7 @@
 ## ID 1096552
 
 ---
-[Video de Youtube](https://www.youtube.com/watch?v=oVKd_L4pTak)
+[Youtube video](https://www.youtube.com/watch?v=oVKd_L4pTak)
 ---
 
 1. git init
