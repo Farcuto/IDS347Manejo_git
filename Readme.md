@@ -11,5 +11,5 @@
 3. git add .
 4. git commit -m "message"
 5. git branch -M main
-6. git remote add origin https://github.com/<USERNAME>/<repository name>.git
+6. git remote add origin https://github.com/"USERNAME"/"repository name".git
 7. git push -u origin main
